@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\media",
     "\\social",
+    "\\social\\static",
     "\\social\\templates",
-    "\\social\\templates\\social",
-    "\\social_django"
+    "\\social\\templates\\social"
   ],
-  "SelectedNode": "\\social\\views.py",
+  "SelectedNode": "\\social\\templates\\social\\layout.html",
   "PreviewInSolutionExplorer": false
 }
